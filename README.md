@@ -1,8 +1,8 @@
 # Basic Banking System
 
-Basically, this is a dynamic website which was developed as a web development internship project (Task 1 : Basic Banking System) by **The Spark Foundation**.
+Basically, this is a dynamic website which was developed as a web development internship project (Task 1 : Basic Banking System) by **The Spark Foundation**. Website can be seen at https://guptapriyanshu.000webhostapp.com
 
-Steps to use this website :
+Steps to use this website locally :
 
 1. Download xampp (https://www.apachefriends.org/download.html).
 2. Unzip this folder in the path C:\xampp\htdocs
@@ -22,6 +22,7 @@ Steps to use this website :
 - **Database** : MySQL
   1. User Table (that has basic fields such as name, email & current balance).
   2. Transaction Table (that records all transfers happened along with their time).
+- **Hosted on** : 000webhost app (https://guptapriyanshu.000webhostapp.com)
 
 ## Screenshots
 
