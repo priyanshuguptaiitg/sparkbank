@@ -19,8 +19,9 @@
 
 <body>
   <nav class="navbar navbar-expand-md navbar-light">
-    <a class="navbar-brand" href="index.php" style="color:#C0392B;"> <b>SPARK BANK</b> &nbsp; &nbsp; &nbsp; Don't just save money, grow it too!</a>
+    <a class="navbar-brand" href="index.php" style="color:#C0392B;"> <b>SPARK BANK</b> </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar"><span class="navbar-toggler-icon"></span></button>
+    <a class="navbar-brand" href="index.php" style="color:#C0392B;"> Don't just save money, grow it too! </a>
     <div class="collapse navbar-collapse" id="collapsibleNavbar">
       <ul class="navbar-nav ml-auto">
         <li class="nav-item"><a class="nav-link active" href="index.php" style="color : #C0392B;"><b>Home</b></a></li>
@@ -56,7 +57,7 @@
       </div>
     </div>
   </div>
-  <footer class="text-center mt-5 py-2 fixed-bottom"><b>&copy Priyanshu Gupta, The Spark Foundation, 2021</b></footer>
+  <footer class="text-center mt-5 py-2"><b>&copy Priyanshu Gupta, 2021</b></footer>
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
 </body>
